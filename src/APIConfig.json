@@ -1,0 +1,91 @@
+{
+    "getAlerts":"https://wvk08v3pf0.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getAlerstHistory":"https://wvk08v3pf0.execute-api.us-east-2.amazonaws.com/dev",
+
+    "createAlertConfiguration":"https://wvk08v3pf0.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getListOfAlertConfiguration":"https://wvk08v3pf0.execute-api.us-east-2.amazonaws.com/dev",
+
+    "updateAlert":"https://wvk08v3pf0.execute-api.us-east-2.amazonaws.com/dev",
+
+    "AlertPriorityStatistics":"https://wvk08v3pf0.execute-api.us-east-2.amazonaws.com/dev",
+
+    "AlertStatusStatistics":"https://wvk08v3pf0.execute-api.us-east-2.amazonaws.com/dev",
+
+    "AlertPriorityTrend":"https://wvk08v3pf0.execute-api.us-east-2.amazonaws.com/dev",
+
+    "AlertStatusTrend":"https://wvk08v3pf0.execute-api.us-east-2.amazonaws.com/dev",
+
+
+
+
+    "getListOfAnalyticsReports":"https://yhumk75fm5.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getAssetUtilizationSummary":"https://yhumk75fm5.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getDailyAssetRunData":"https://yhumk75fm5.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getDetailedAssetRunData":"https://yhumk75fm5.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getListOfSensors":"https://45wuefsmbe.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getListOfSensorGroups":"https://45wuefsmbe.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getAssetList":"https://45wuefsmbe.execute-api.us-east-2.amazonaws.com/dev",
+    
+
+    "getProjectedAssetData":"https://45wuefsmbe.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getAssetCurrentData":"https://45wuefsmbe.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getAssetAlerts":"https://45wuefsmbe.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getAssetMaintenance":"https://45wuefsmbe.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getDeviceList":"https://lxvn7z116m.execute-api.us-east-2.amazonaws.com/dev",
+    "DeviceStatusStatistics":"https://lxvn7z116m.execute-api.us-east-2.amazonaws.com/dev",
+    "DeviceStatusTrend":"https://lxvn7z116m.execute-api.us-east-2.amazonaws.com/dev",
+
+
+
+    "MaintenanceStatusStatistics":"https://j8fmz8h837.execute-api.us-east-2.amazonaws.com/dev",
+    "MaintenanceStatusTrend":"https://j8fmz8h837.execute-api.us-east-2.amazonaws.com/dev",
+    "getMaintenance":"https://j8fmz8h837.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getMaintenanceHistory":"https://j8fmz8h837.execute-api.us-east-2.amazonaws.com/dev",
+
+    "updateMaintenanceJob":"https://j8fmz8h837.execute-api.us-east-2.amazonaws.com/dev",
+
+    "updateMaintenancePlan":"https://j8fmz8h837.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getListOfMaintenancePlan":"https://j8fmz8h837.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getMapViewData":"https://16guzfnzog.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getAssetListForReference":"https://f594u5uu7j.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getListOfDataPoints":"https://f594u5uu7j.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getListOfAttributes":"https://f594u5uu7j.execute-api.us-east-2.amazonaws.com/dev",
+
+    "login":"https://f594u5uu7j.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getPartsStatus":"https://kdiwmxoyi9.execute-api.us-east-2.amazonaws.com/dev",
+
+    "PartValidityStatistics":"https://kdiwmxoyi9.execute-api.us-east-2.amazonaws.com/dev",
+
+    "PartStatusStatistics":"https://kdiwmxoyi9.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getCustomerAssets":"https://kdiwmxoyi9.execute-api.us-east-2.amazonaws.com/dev",
+
+    "getListOfCustomers":"https://kdiwmxoyi9.execute-api.us-east-2.amazonaws.com/dev",
+    
+    "PartValidityTrend":"https://kdiwmxoyi9.execute-api.us-east-2.amazonaws.com/dev",
+
+    "PartStatusTrend":"https://kdiwmxoyi9.execute-api.us-east-2.amazonaws.com/dev"
+
+    
+
+
+}

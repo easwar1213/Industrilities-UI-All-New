@@ -1,0 +1,24 @@
+{
+   
+    "photos": 
+    [
+        {
+            "gps":{"timeStamp":1532081372563,"location":{"lon":77.2266,"lat":28.5595},"heading":143,"speed":0},
+        "maintenanceStatus":{"due":1,"upcoming":0,"none":1},
+        "alertPriority":{"high":1,"medium":0,"none":1,"low":1},
+        "telematicsSerialNumber":1212343456
+    },
+        
+        {
+            "gps":{"timeStamp":1532080703385,"location":{"lon":77.0266,"lat":28.4595},"heading":143,"speed":0},
+            "maintenanceStatus":{"due":1,"upcoming":0,"none":1},
+            "alertPriority":{"low":1,"high":1,"none":1},
+            "telematicsSerialNumber":1212343457
+        },
+
+    {
+        "gps":{"timeStamp":1532081001786,"location":{"lon":77.1266,"lat":28.3595},"heading":143,"speed":0}
+        ,"maintenanceStatus":{"upcoming":1,"none":1},
+        "alertPriority":{"medium":1,"none":1},
+        "telematicsSerialNumber":1212343458}]
+}
